@@ -1,4 +1,4 @@
-# Graph reaction network construction and  training code.
+# Graph reaction network construction and training code.
 This codebase includes the complete set of initial DFT calculations, graph reaction network construction code, and CatalGNN training code.
 
 # Install the necessary dependency libraries
@@ -10,5 +10,5 @@ networkx      3.2.1
 py2neo        2021.2.4
 shap          0.47.0
 
-
-This article is currently under submission.
+# cite literature
+This article is currently under review.
