@@ -1,0 +1,11 @@
+reaction_id,reactant_combination,response equation,free_energy
+REACT_001,*+CO2,CO2 + * -> *CO2,
+REACT_002,*CO2,*CO2 + H+ + e- -> *COOH,
+REACT_003,*COOH,*COOH + H+ + e- -> *CO + H2O,
+REACT_004,*CO,*CO + H+ + e- -> *CHO,
+REACT_005,*CO+*CO,*CO + *CO -> *COCO,0.96
+REACT_006,*CHO+*CO,*CO + *CHO -> *COCHO,1.4768
+REACT_007,*CO+*COH,*CO + *COH -> *COHCO,-0.058
+REACT_008,*CHO+*CHO,*CHO + *CHO -> *CHOCHO,1.478
+REACT_009,*COH+*COH,*COH + *COH -> *COHCOH,-2.9506
+REACT_010,*CHO+*COH,*COH + *CHO -> *COHCHO,-0.2395
