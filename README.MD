@@ -1,6 +1,6 @@
 # Graph reaction network construction and training code.
 This codebase includes the complete set of initial DFT calculations, graph reaction network construction code, and CatalGNN training code.
-
+https://pubs.acs.org/view-large/figure/260994958/cs-2026-06712z_0007.tif
 # Install the necessary dependency libraries
 numpy         1.26.4
 pandas        2.2.2
